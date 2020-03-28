@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Blank Template",
+    "name": "omnistack11-mobile",
     "slug": "omnistack11-mobile",
     "privacy": "public",
     "sdkVersion": "36.0.0",
@@ -15,7 +15,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#E02041"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
