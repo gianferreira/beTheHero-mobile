@@ -1,10 +1,86 @@
-# omnistack11-mobile
-Projeto em React Native para o mobile da Omnistack 11.
+<h3 align="center">
+  <img alt="Be-The-Hero" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-logo.png" width="200px"/>
+</h3>
 
-Utilizando:
-- react native
-- react-navigation
-- hooks
-- axios
-- expo
-- mail-composer
+<h1 align="center">
+  Be The Hero - Mobile
+</h1>
+
+<p align="center">Mobile em React Native da aplicação Be The Hero.</p>
+
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/omnistack11-mobile">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/omnistack11-mobile">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/omnistack11-mobile">
+</p>
+
+<table>
+  <tr>
+    <td>
+      <img alt="intro" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-intro.png" width="250px"/>
+    </td>
+    <td>
+      <img alt="Welcome" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-welcome.png" width="250px"/>
+    </td>    
+    <td>
+      <img alt="Incident" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-incident.png" width="250px"/>    
+    </td>    
+    <td>
+      <img alt="Email" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-email.png" width="250px"/>
+    </td>
+  </tr>
+</table>
+
+## Sobre:
+
+Aplicação mobile construída com React Native em que o usuário pode ajudar via email ou whatsapp em algum tipo de `incident`, podendo "ser o herói" de uma causa. A aplicação consome uma <a href="https://github.com/gianferreira/omnistack11-backend"><b> API </b></a> construída em Node.js
+
+## Tecnologias utilizadas:
+
+- React Native
+- React-navigation
+- Hooks
+- Axios
+- Expo
+- Mail-composer
+
+## Instalação e execução:
+
+Na primeira vez que for utilizar, faça um clone deste repositório:
+
+```bash
+$ git clone https://github.com/gianferreira/omnistack11-mobile
+```
+
+Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
+
+```bash
+yarn
+```
+
+Para iniciar o servidor:
+
+```bash
+yarn start
+```
+
+> Utilização do [Insomnia](https://insomnia.rest/download/) para testar as rotas.
+
+---
+
+<p align="center"> Gian Ferreira </p>
+<p align="center">
+  <a alt="Gian Ferreira" href="https://www.linkedin.com/in/gian-ferreira-7750a9179/">
+    <img src="https://img.shields.io/badge/LinkedIn-Gian_Ferreira-7750a9179?logo=linkedin"/>
+  </a>
+  <a alt="Gian Ferreira" href="https://github.com/gianferreira">
+    <img src="https://img.shields.io/badge/Gian_Ferreira-GitHub-000?logo=github"/>
+  </a>
+</p>
+
+<blockquote align="center">
+  Este projeto foi desenvolvimento durante a semana Omnistack da 
+    <a href="https://rocketseat.com.br/">
+      RocketSeat
+    </a>
+</blockquote>
