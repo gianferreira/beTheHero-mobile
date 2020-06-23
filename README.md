@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Be-The-Hero" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-logo.png" width="200px"/>
+  <img alt="Be-The-Hero" src="https://github.com/gianferreira/beTheHero-mobile/blob/master/readme-logo.png" width="200px"/>
 </h3>
 
 <h1 align="center">
@@ -9,47 +9,47 @@
 <p align="center">Mobile em React Native da aplicação Be The Hero.</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/omnistack11-mobile">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/omnistack11-mobile">
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/omnistack11-mobile">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gianferreira/beTheHero-mobile">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/gianferreira/beTheHero-mobile">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/gianferreira/beTheHero-mobile">
 </p>
 
 <table>
   <tr>
     <td>
-      <img alt="intro" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-intro.png" width="250px"/>
+      <img alt="intro" src="https://github.com/gianferreira/beTheHero-mobile/blob/master/readme-mobile-intro.png" width="250px"/>
     </td>
     <td>
-      <img alt="Welcome" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-welcome.png" width="250px"/>
+      <img alt="Welcome" src="https://github.com/gianferreira/beTheHero-mobile/blob/master/readme-mobile-welcome.png" width="250px"/>
     </td>    
     <td>
-      <img alt="Incident" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-incident.png" width="250px"/>    
+      <img alt="Incident" src="https://github.com/gianferreira/beTheHero-mobile/blob/master/readme-mobile-incident.png" width="250px"/>    
     </td>    
     <td>
-      <img alt="Email" src="https://github.com/gianferreira/omnistack11-mobile/blob/master/readme-mobile-email.png" width="250px"/>
+      <img alt="Email" src="https://github.com/gianferreira/beTheHero-mobile/blob/master/readme-mobile-email.png" width="250px"/>
     </td>
   </tr>
 </table>
 
 ## Sobre:
 
-Aplicação mobile construída com React Native em que o usuário pode ajudar via email ou whatsapp em algum tipo de `incident`, podendo "ser o herói" de uma causa. A aplicação consome uma <a href="https://github.com/gianferreira/omnistack11-backend"><b> API </b></a> construída em Node.js
+Aplicação mobile desenvolvida em React Native em que o usuário pode ajudar via email ou whatsapp em algum tipo de `incident`, podendo "ser o herói" de uma causa. A aplicação consome uma <a href="https://github.com/gianferreira/beTheHero-backend"><b> API </b></a> construída em Node.js
 
 ## Tecnologias utilizadas:
 
-- React Native
-- React-navigation
-- Hooks
-- Axios
-- Expo
-- Mail-composer
+- react native
+- react-navigation
+- react hooks
+- axios
+- expo
+- mail-composer
 
 ## Instalação e execução:
 
 Na primeira vez que for utilizar, faça um clone deste repositório:
 
 ```bash
-$ git clone https://github.com/gianferreira/omnistack11-mobile
+$ git clone https://github.com/gianferreira/beTheHero-mobile
 ```
 
 Dentro da pasta do seu repositório criado, utilize o comando abaixo para instalar as dependências da aplicação:
